@@ -1,0 +1,7 @@
+Flask
+Flask-RESTful
+uwsgi
+urllib3
+urlextract
+pymongo
+natsort
