@@ -10,7 +10,7 @@ import sys
 
 
 # reading json file
-with open('./wga_json/34.json') as f:
+with open('wga_json/34.json') as f:
     l = json.load(f)
 print(l)
 
