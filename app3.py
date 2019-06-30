@@ -10,7 +10,7 @@ from natsort import natsorted, ns
 import sys
 
 
-
+print("app3 is running...")
 app = Flask(__name__)
 api = Api(app)
 
